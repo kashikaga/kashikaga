@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React, DSA**
 
-- 👯 I’m looking to collaborate on [Leetcode-DSA-Java](https://github.com/kashikaga/Leetcode-DSA-Java)
+- 👯 I’m looking to collaborate on [Leetcode-DSA](https://github.com/kashikaga/Leetcode-DSA)
 
 - 🤝 I’m looking for help with [Moonlight Cafe](https://github.com/kashikaga/Moonlight-cafe)
 
