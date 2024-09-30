@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Leetcode-DSA](https://github.com/kashikaga/Leetcode-DSA)
 
-- 🤝 I’m looking for help with [Moonlight Cafe](https://github.com/kashikaga/Moonlight-cafe)
+- 🤝 I’m looking for help with [Projects and Internships](https://github.com/kashikaga)
 
 - 💬 Ask me about **HTML,CSS,JS,Postman APIs**
 
