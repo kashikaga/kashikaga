@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I like to connect with people and keep learning from them**
 
- [![An image of @kashikaga's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kashikaga)](https://holopin.io/@KGupta2126)
+ [![An image of @kashikaga's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/KGupta2126)](https://holopin.io/@KGupta2126)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
