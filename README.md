@@ -39,7 +39,7 @@
 
 # Certifications 🎓
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-[![GitHub Foundations Badge]<img src="https://github.com/kashikaga/Badges/blob/main/github-foundations.png" width="100px" height="100px" />](https://www.credly.com/badges/61c5b557-f003-4df4-b56b-b0811800e0fa/public_url)
+[![GitHub Foundations Badge]<img src="https://github.com/kashikaga/Badges/blob/main/github-foundations.png" width="100px" height="100px" />]
 
 
 <h3 align="left">Connect with me:</h3>
