@@ -39,7 +39,7 @@
 
 # Certifications 🎓
 
-[![GitHub Foundations Badge](https://images.credly.com/size/220x220/images/2bca3e83-0ae6-40ad-8c59-c51c7f74c8f3/image.png)](https://www.credly.com/badges/61c5b557-f003-4df4-b56b-b0811800e0fa/public_url)
+[![GitHub Foundations Badge](https://www.credly.com/badges/61c5b557-f003-4df4-b56b-b0811800e0fa)](https://www.credly.com/badges/61c5b557-f003-4df4-b56b-b0811800e0fa/public_url)
 
 
 <h3 align="left">Connect with me:</h3>
