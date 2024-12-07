@@ -39,7 +39,8 @@
 
 # Certifications 🎓
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-[![GitHub Foundations Badge]<img src="https://github.com/kashikaga/Badges/blob/main/github-foundations.png" width="100px" height="100px" />]
+<img src="https://github.com/kashikaga/Badges/blob/main/github-foundations.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
 
 
 <h3 align="left">Connect with me:</h3>
