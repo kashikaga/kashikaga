@@ -37,6 +37,11 @@
 
  [![An image of @kgupta2601's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kgupta2601)](https://holopin.io/@kgupta2601)
 
+# Certifications 🎓
+
+[![GitHub Foundations Badge](https://images.credly.com/size/220x220/images/2bca3e83-0ae6-40ad-8c59-c51c7f74c8f3/image.png)](https://www.credly.com/badges/61c5b557-f003-4df4-b56b-b0811800e0fa/public_url)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kashikagupta0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kashikagupta0" height="30" width="40" /></a>
