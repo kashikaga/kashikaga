@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/kashikagupta0" target="blank"><img src="https://img.shields.io/twitter/follow/kashikagupta0?logo=twitter&style=for-the-badge" alt="kashikagupta0 " /></a> </p>
 
-- 🔭 I’m currently working on **Leetcode DSA**
+- 🔭 I’m currently working on **FinTrak**
 
-- 🌱 I’m currently learning **React, DSA**
+- 🌱 I’m currently learning **DSA**
 
-- 👯 I’m looking to collaborate on [Leetcode-DSA](https://github.com/kashikaga/Leetcode-DSA)
+- 👯 I’m looking to collaborate on [FinTrak](https://github.com/kashikaga/FinTrak)
 
 - 🤝 I’m looking for help with [Projects and Internships](https://github.com/kashikaga)
 
