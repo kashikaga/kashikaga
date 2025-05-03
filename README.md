@@ -9,7 +9,7 @@
 </a> 
 </p>
 
-<p align="left"><a href="https://dip.zapfolio.in/kashika" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-Zapfolio-blueviolet?style=for-the-badge&logo=github" alt="zapfolio" height="30" /></a>
+<p align="left"><a href="https://dip.zapfolio.in/kashika26" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-Zapfolio-blueviolet?style=for-the-badge&logo=github" alt="zapfolio" height="30" /></a>
 </p>
 
 - 🔭 I’m currently working on **FinTrak**
