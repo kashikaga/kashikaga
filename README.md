@@ -5,7 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashikaga" alt="kashikaga" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kashikagupta0" target="blank"><img src="https://img.shields.io/twitter/follow/kashikagupta0?logo=twitter&style=for-the-badge" alt="kashikagupta0 " /></a> </p>
+<p align="left"> <a href="https://twitter.com/kashikagupta0" target="blank"><img src="https://img.shields.io/twitter/follow/kashikagupta0?logo=twitter&style=for-the-badge" alt="kashikagupta0 " />
+</a> 
+</p>
+
+<p align="left"><a href="https://dip.zapfolio.in/kashika" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-Zapfolio-blueviolet?style=for-the-badge&logo=github" alt="zapfolio" height="30" /></a>
+</p>
 
 - 🔭 I’m currently working on **FinTrak**
 
