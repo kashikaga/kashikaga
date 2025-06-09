@@ -20,7 +20,7 @@
 
 - 🤝 I’m looking for help with [Projects and Internships](https://github.com/kashikaga)
 
-- 💬 Ask me about **HTML,CSS,JS,Postman APIs**
+- 💬 Ask me about **MERN,Postman APIs,Github**
 
 - 📫 How to reach me **kgupta.abps@gmail.com**
 
