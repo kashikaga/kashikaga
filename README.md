@@ -16,7 +16,7 @@
 
 
 
-- 👯 I’m looking to collaborate on [FinTrak](https://github.com/kashikaga/FinTrak)
+- 👯 I’m looking to collaborate on Hackathons
 
 - 🤝 I’m looking for help with [Projects and Internships](https://github.com/kashikaga)
 
