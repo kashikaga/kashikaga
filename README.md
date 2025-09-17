@@ -49,6 +49,8 @@
 <img src="https://github.com/kashikaga/Badges/blob/main/github-foundations.png" width="100px" height="100px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
 
+[![An image of @kashikaga's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kashikaga)](https://holopin.io/@kashikaga)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
