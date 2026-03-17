@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on Hackathons
 
-- 🤝 I’m looking for help with [Projects and Internships](https://github.com/kashikaga)
+- 🤝 I’m looking for help with [Projects and Opportunities](https://github.com/kashikaga)
 
 - 💬 Ask me about **MERN,Postman APIs,Github**
 
