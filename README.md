@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with [Projects and Opportunities](https://github.com/kashikaga)
 
-- 💬 Ask me about **MERN,Postman APIs,Github**
+- 💬 Ask me about **MERN,Postman APIs,Github,Java**
 
 - 📫 How to reach me **kgupta.abps@gmail.com**
 
