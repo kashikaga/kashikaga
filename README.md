@@ -90,8 +90,22 @@
 
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashikaga&show_icons=true&locale=en&layout=compact" alt="kashikaga" /></p>
+<!-- GitHub Stats Section -->
+<h3 align="center">GitHub Stats 📊</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashikaga&show_icons=true&locale=en" alt="kashikaga" /></p>
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashikaga&" alt="kashikaga" /></p>
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashikaga&show_icons=true&locale=en&layout=compact" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kashikaga&show_icons=true&locale=en" />
+
+</div>
+
+<br/>
+
+<!-- Streak Stats Centered -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashikaga" />
+</div>
