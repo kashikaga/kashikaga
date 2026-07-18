@@ -3,9 +3,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashikaga&label=Profile%20views&color=0e75b6&style=flat" alt="kashikaga" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashikaga" alt="kashikaga" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kashikagupta0" target="blank"><img src="https://img.shields.io/twitter/follow/kashikagupta0?logo=twitter&style=for-the-badge" alt="kashikagupta0 " />
+<p align="left"> <a href="https://x.com/KashikaGupta0" target="blank"><img src="https://img.shields.io/twitter/follow/kashikagupta0?logo=twitter&style=for-the-badge" alt="kashikagupta0 " />
 </a>  
 </p> 
 
@@ -76,18 +74,6 @@
 
 <!-- GitHub Stats Section -->
 <h3 align="center">GitHub Stats 📊</h3>
-
-<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashikaga&show_icons=true&locale=en&layout=compact" />
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kashikaga&show_icons=true&locale=en" />
-
-</div>
-
-<br/>
 
 <!-- Streak Stats Centered -->
 <div align="center">
