@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashikaga&label=Profile%20views&color=0e75b6&style=flat" alt="kashikaga" /> </p>
 
 
-
-</p> 
-
  <img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 - 🔭 I’m currently working in Infosys
 
